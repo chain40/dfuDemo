@@ -14,7 +14,7 @@
     <RootNamespace>dfu</RootNamespace>
     <IsWindowsApplication>False</IsWindowsApplication>
     <LaunchProvider>Standard Python launcher</LaunchProvider>
-    <CommandLineArguments>COM13</CommandLineArguments>
+    <CommandLineArguments>COM31</CommandLineArguments>
     <EnableNativeCodeDebugging>False</EnableNativeCodeDebugging>
     <InterpreterId>Global|PythonCore|3.9</InterpreterId>
   </PropertyGroup>
